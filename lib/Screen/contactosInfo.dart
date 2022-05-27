@@ -1,0 +1,42 @@
+const contactosinfo = [
+  {
+    'name': 'Karla',
+    'estadopost': 'hace 15 minutos',
+    'llamadaimag': 'assets/tel.png',
+    'message': 'Hola, la reunión será a las 2pm',
+    'time': '3:53 pm',
+    'profilePic': 'https://es.rollingstone.com/wp-content/uploads/2022/05/Carla-Morrison-renaciendo-desde-adentro1.jpg',
+  },
+  {
+    'name': 'Carlos "Gordo"',
+    'estadopost': 'hace 1 hora',
+    'llamadaimag': 'assets/tel.png',
+    'message': 'Compremos una little caesars',
+    'time': '2:25 pm',
+    'profilePic': 'https://pbs.twimg.com/media/EzszRabXoAELRMW.jpg',
+  },
+  {
+    'name': 'Dorian',
+    'estadopost': 'Ayer 12:40 pm',
+    'llamadaimag': 'assets/tel.png',
+    'message': 'Estoy viendo anime',
+    'time': '1:03 pm',
+    'profilePic': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPcRMvvJEBPGmxQM9J-vIFi8Fz7MKJ-OzfkA&usqp=CAU',
+  },
+  {
+    'name': 'Cristian',
+    'estadopost': 'Ayer 10:00 am',
+    'llamadaimag': 'assets/tel.png',
+    'message': 'Vas a ir a campamento?',
+    'time': '12:06 pm',
+    'profilePic': 'https://w7.pngwing.com/pngs/611/185/png-transparent-young-life-north-shore-long-island-organization-young-life-chicago-northside-washington-family-ranch-a-young-life-camp-life-miscellaneous-angle-text.png',
+  },
+  {
+    'name': 'Mama',
+    'estadopost': 'Ayer 9:30 am',
+    'llamadaimag': 'assets/tel.png',
+    'message': 'Busca como dormirte',
+    'time': '12:00 pm',
+    'profilePic': 'https://www.ngenespanol.com/wp-content/uploads/2018/08/Rosa-favorable.jpg',
+  },
+];
